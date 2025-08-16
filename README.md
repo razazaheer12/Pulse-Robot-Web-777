@@ -136,7 +136,7 @@ This project is open source and available under the MIT License.
 
 ## 🌐 Demo
 
-Visit the live demo: [Password Generator](https://pulse-robot-web-777.lovable.app/)
+Visit the live demo: [Pulse-Robot](https://pulse-robot-web-777.lovable.app/)
 
 ## 👨‍💻 Author
 
