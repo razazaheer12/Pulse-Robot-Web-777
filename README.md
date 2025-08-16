@@ -6,10 +6,8 @@ Pulse Robot is a cutting-edge humanoid robot platform designed specifically for 
 
 Built with modern web technologies, this project delivers an immersive user experience with smooth animations, responsive design, and optimized performance across all devices.
 
-## 👨‍💻 Author
+<img width="1366" height="640" alt="image" src="https://github.com/user-attachments/assets/183542e3-2157-4864-94a6-d3f3f3201d56" />
 
-**Raza Zaheer 12**
-- All rights reserved by Raza Zaheer 12
 
 ## 🚀 Features
 
@@ -141,6 +139,11 @@ The project uses a comprehensive design system defined in:
 - **🌐 Live Demo**: [View on Lovable](https://lovable.dev/projects/35d72d2e-6e25-40e5-9b0c-c0d1a7c1b727)
 - **📚 Lovable Docs**: [Documentation](https://docs.lovable.dev/)
 - **💬 Community**: [Discord](https://discord.com/channels/1119885301872070706/1280461670979993613)
+
+## 👨‍💻 Author
+
+**Raza Zaheer 12**
+- All rights reserved by Raza Zaheer12  
 
 ## 🆘 Support
 
