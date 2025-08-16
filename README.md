@@ -1,69 +1,154 @@
-# Welcome to your Lovable project
+# 🤖 Pulse Robot - Advanced Humanoid Robot Platform
 
-## Project info
+## 📖 Description
 
-**URL**: https://lovable.dev/projects/35d72d2e-6e25-40e5-9b0c-c0d1a7c1b727
+Pulse Robot is a cutting-edge humanoid robot platform designed specifically for the Pakistani market. This modern, responsive website showcases Atlas - an advanced humanoid robot that works alongside human teams to enhance productivity, safety, and innovation. The platform features interactive animations, dynamic content sections, and a sleek design that highlights the robot's capabilities and specifications.
 
-## How can I edit this code?
+Built with modern web technologies, this project delivers an immersive user experience with smooth animations, responsive design, and optimized performance across all devices.
 
-There are several ways of editing your application.
+## 👨‍💻 Author
 
-**Use Lovable**
+**Raza Zaheer 12**
+- All rights reserved by Raza Zaheer 12
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/35d72d2e-6e25-40e5-9b0c-c0d1a7c1b727) and start prompting.
+## 🚀 Features
 
-Changes made via Lovable will be committed automatically to this repo.
+- **🎨 Modern Design**: Clean, professional interface with smooth animations
+- **📱 Responsive Layout**: Optimized for all screen sizes and devices
+- **🎬 Interactive Animations**: Lottie animations and parallax effects
+- **🌟 Dynamic Sections**: 
+  - Hero section with animated elements
+  - Features showcase
+  - Testimonials from Pakistani companies
+  - Technical specifications
+  - How it works explanation
+  - Human intuition integration
+- **⚡ Performance Optimized**: Fast loading with optimized assets
+- **🎯 SEO Friendly**: Proper meta tags and semantic HTML structure
 
-**Use your preferred IDE**
+## 🛠️ Technologies Used
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **⚛️ React 18**: Modern React with hooks and functional components
+- **📘 TypeScript**: Type-safe development
+- **⚡ Vite**: Fast build tool and development server
+- **🎨 Tailwind CSS**: Utility-first CSS framework
+- **🧩 shadcn/ui**: Modern UI components
+- **🎬 Lottie React**: High-quality animations
+- **🎭 Lucide React**: Beautiful icons
+- **📱 React Router**: Client-side routing
+- **🔥 React Query**: Data fetching and caching
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 📦 Installation
 
-Follow these steps:
+### Prerequisites
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+Make sure you have Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+
+### Setup Instructions
+
+```bash
+# 1️⃣ Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# 2️⃣ Navigate to project directory
+cd pulse-robot
 
-# Step 3: Install the necessary dependencies.
-npm i
+# 3️⃣ Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# 4️⃣ Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## 🏃‍♂️ Usage
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### Development Server
+```bash
+npm run dev
+```
+Starts the development server with hot reload at `http://localhost:5173`
 
-**Use GitHub Codespaces**
+### Build for Production
+```bash
+npm run build
+```
+Creates an optimized production build in the `dist` folder
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+### Preview Production Build
+```bash
+npm run preview
+```
+Serves the production build locally for testing
 
-## What technologies are used for this project?
+## 📁 Project Structure
 
-This project is built with .
+```
+src/
+├── 📂 components/           # React components
+│   ├── 🧩 ui/              # Reusable UI components (shadcn)
+│   ├── 🏠 Hero.tsx         # Hero section with animations
+│   ├── ⭐ Features.tsx     # Features showcase
+│   ├── 💬 Testimonials.tsx # Customer testimonials
+│   ├── 📊 SpecsSection.tsx # Technical specifications
+│   └── ...                # Other components
+├── 📂 pages/              # Page components
+├── 📂 hooks/              # Custom React hooks
+├── 📂 lib/                # Utility functions
+├── 🎨 index.css           # Global styles and design tokens
+└── 📱 main.tsx            # Application entry point
+```
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 🎯 Key Sections
 
-## How can I deploy this project?
+- **🚀 Hero**: Eye-catching introduction with animated robot showcase
+- **✨ Features**: Highlight key capabilities and benefits
+- **💼 Testimonials**: Success stories from Pakistani companies
+- **⚙️ Specifications**: Technical details and capabilities
+- **🔄 How It Works**: Step-by-step process explanation
+- **🧠 Human Integration**: Focus on human-robot collaboration
+- **📞 Contact**: Call-to-action and contact information
 
-Simply open [Lovable](https://lovable.dev/projects/35d72d2e-6e25-40e5-9b0c-c0d1a7c1b727) and click on Share -> Publish.
+## 🚀 Deployment
 
-## I want to use a custom domain - is that possible?
+### Using Lovable (Recommended)
+1. Open your [Lovable Project](https://lovable.dev/projects/35d72d2e-6e25-40e5-9b0c-c0d1a7c1b727)
+2. Click on **Share** → **Publish**
+3. Your site will be live instantly
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+### Using Netlify
+1. Build the project: `npm run build`
+2. Upload the `dist` folder to Netlify
+3. Configure custom domain if needed
+
+## 🔧 Customization
+
+### Design System
+The project uses a comprehensive design system defined in:
+- `src/index.css` - CSS custom properties and global styles
+- `tailwind.config.ts` - Tailwind configuration and custom colors
+
+### Adding New Sections
+1. Create a new component in `src/components/`
+2. Import and add to the main page layout
+3. Follow the existing design patterns
+
+## 📄 License
+
+© 2024 Raza Zaheer 12. All rights reserved.
+
+## 🔗 Project Links
+
+- **🌐 Live Demo**: [View on Lovable](https://lovable.dev/projects/35d72d2e-6e25-40e5-9b0c-c0d1a7c1b727)
+- **📚 Lovable Docs**: [Documentation](https://docs.lovable.dev/)
+- **💬 Community**: [Discord](https://discord.com/channels/1119885301872070706/1280461670979993613)
+
+## 🆘 Support
+
+For support and questions:
+1. Check the [Lovable Documentation](https://docs.lovable.dev/)
+2. Join our [Discord Community](https://discord.com/channels/1119885301872070706/1280461670979993613)
+3. Contact the author: Raza Zaheer 12
+
+---
+
+*Built with ❤️ using Lovable - The AI-powered development platform*
