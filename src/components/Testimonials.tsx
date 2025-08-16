@@ -10,27 +10,27 @@ interface TestimonialProps {
 }
 
 const testimonials: TestimonialProps[] = [{
-  content: "Atlas transformed our production line, handling repetitive tasks while our team focuses on innovation. 30% increase in output within three months.",
-  author: "Sarah Chen",
-  role: "VP of Operations, Axion Manufacturing",
+  content: "Atlas revolutionized our textile manufacturing in Faisalabad. We've seen 35% productivity increase while reducing labor costs significantly. Perfect for Pakistan's industrial growth.",
+  author: "Ahmad Hassan",
+  role: "Managing Director, Pakistan Textile Mills",
   gradient: "from-blue-700 via-indigo-800 to-purple-900",
   backgroundImage: "/background-section1.png"
 }, {
-  content: "Implementing Atlas in our fulfillment centers reduced workplace injuries by 40% while improving order accuracy. The learning capabilities are remarkable.",
-  author: "Michael Rodriguez",
-  role: "Director of Logistics, GlobalShip",
+  content: "Our pharmaceutical production in Karachi now runs 24/7 with Atlas. Quality control improved by 50% and we're meeting international export standards consistently.",
+  author: "Dr. Fatima Sheikh",
+  role: "Production Head, Pharmevo Pharmaceuticals",
   gradient: "from-indigo-900 via-purple-800 to-orange-500",
   backgroundImage: "/background-section2.png"
 }, {
-  content: "Atlas adapted to our lab protocols faster than any system we've used. It's like having another researcher who never gets tired and maintains perfect precision.",
-  author: "Dr. Amara Patel",
-  role: "Lead Scientist, BioAdvance Research",
+  content: "Atlas adapted to our food processing requirements in Lahore perfectly. From rice mills to dairy, it's helping us compete globally while creating local jobs.",
+  author: "Muhammad Ali Khan",
+  role: "CEO, Packages Limited",
   gradient: "from-purple-800 via-pink-700 to-red-500",
   backgroundImage: "/background-section3.png"
 }, {
-  content: "As a mid-size business, we never thought advanced robotics would be accessible to us. Atlas changed that equation entirely with its versatility and ease of deployment.",
-  author: "Jason Lee",
-  role: "CEO, Innovative Solutions Inc.",
+  content: "As a growing SME in Islamabad, Atlas made advanced automation affordable for us. Our electronics assembly now matches international quality standards.",
+  author: "Sadia Tariq",
+  role: "Founder, TechHub Pakistan",
   gradient: "from-orange-600 via-red-500 to-purple-600",
   backgroundImage: "/background-section1.png"
 }];
