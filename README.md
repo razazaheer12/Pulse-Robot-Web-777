@@ -143,13 +143,6 @@ Visit the live demo: [Pulse-Robot](https://pulse-robot-web-777.lovable.app/)
 **Raza Zaheer 12**
 - All rights reserved by Raza Zaheer12  
 
-## 🆘 Support
-
-For support and questions:
-1. Check the [Lovable Documentation](https://docs.lovable.dev/)
-2. Join our [Discord Community](https://discord.com/channels/1119885301872070706/1280461670979993613)
-3. Contact the author: Raza Zaheer 12
-
 ---
 
 *Built with ❤️ using Lovable - The AI-powered development platform*
