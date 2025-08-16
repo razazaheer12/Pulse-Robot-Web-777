@@ -134,11 +134,9 @@ The project uses a comprehensive design system defined in:
 
 This project is open source and available under the MIT License.
 
-## 🔗 Project Links
+## 🌐 Demo
 
-- **🌐 Live Demo**: [View on Lovable](https://lovable.dev/projects/35d72d2e-6e25-40e5-9b0c-c0d1a7c1b727)
-- **📚 Lovable Docs**: [Documentation](https://docs.lovable.dev/)
-- **💬 Community**: [Discord](https://discord.com/channels/1119885301872070706/1280461670979993613)
+Visit the live demo: [Password Generator](https://pulse-robot-web-777.lovable.app/)
 
 ## 👨‍💻 Author
 
