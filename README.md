@@ -132,7 +132,7 @@ The project uses a comprehensive design system defined in:
 
 ## 📄 License
 
-© 2024 Raza Zaheer 12. All rights reserved.
+This project is open source and available under the MIT License.
 
 ## 🔗 Project Links
 
