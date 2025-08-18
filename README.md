@@ -145,4 +145,4 @@ Visit the live demo: [Pulse-Robot](https://pulse-robot-web-777.lovable.app/)
 
 ---
 
-*Built with ❤️ using Lovable - The AI-powered development platform*
+*Built with ❤️ using Lovable - The AI powered development platform*
